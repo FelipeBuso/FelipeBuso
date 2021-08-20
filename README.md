@@ -12,7 +12,6 @@
 
 - 🌱 Estudando **Desenvolvimento de Software na Trybe**
 - :house_with_garden: Sou de São Paulo 🇧🇷
-- 🎂 44 anos
 - 🥁 Baterista nas horas vagas
 
 
