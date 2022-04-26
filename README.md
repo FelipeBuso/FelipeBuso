@@ -17,7 +17,9 @@
 - 🥁 Baterista nas horas vagas
 
 <h4 align="left">Estudando atualmente:</h4>
-<a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/ style="background-color:#fff;">  </a>
+<div style="background-color:#fff;">
+<a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>  </a>
+ </div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
