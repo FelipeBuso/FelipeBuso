@@ -18,7 +18,7 @@
 
 <h4 align="left">Estudando atualmente:</h4>
 <div style="background-color:white;" width="65" height="65">
-<a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>  </a>
+<a style="background-color:white;" href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>  </a>
  </div>
 </p>
 
