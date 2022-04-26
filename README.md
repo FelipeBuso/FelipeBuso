@@ -17,9 +17,9 @@
 - 🥁 Baterista nas horas vagas
 
 <h4 align="left">Estudando atualmente:</h4>
-<a href="https://socket.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="socket.io" width="60" height="60"/>  </a>
+<!-- <a href="https://socket.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="socket.io" width="60" height="60"/>  </a>
 <a href="java" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/>  </a>
-<p align="left">
+<p align="left"> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,4 +31,5 @@
 <a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>  </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60" margin-rigth="5px"/>  </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>  </a>
+<a href="https://socket.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="socket.io" width="60" height="60"/>  </a>
 </p>
