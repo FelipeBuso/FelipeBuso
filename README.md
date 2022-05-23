@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBuso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 Desenvolvedor web fullstack na Bria Saúde
+- 🌱 Desenvolvedor web full stack na Bria Saúde
 - :house_with_garden: Sou de São Paulo 🇧🇷
 - 🥁 Baterista nas horas vagas
 
