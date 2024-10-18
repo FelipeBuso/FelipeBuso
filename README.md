@@ -6,12 +6,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipebuso/)]( https://www.linkedin.com/in/felipebuso/)
 
 
-- [Portfólio](https://felipebuso.github.io/) 💻 - Em constante evolução!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeBuso&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBuso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+- :man_student: Cursando Ciências da Computação na Anhembi Morumbi
 - 🌱 Desenvolvedor web full stack na Bria Saúde
 - :house_with_garden: Sou de São Paulo 🇧🇷
 - 🥁 Baterista nas horas vagas
