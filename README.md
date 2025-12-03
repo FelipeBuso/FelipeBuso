@@ -7,8 +7,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeBuso&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats-ruddy-iota.vercel.app/?user=FelipeBuso)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBuso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - :man_student: Cursando Ciências da Computação na Anhembi Morumbi
@@ -19,6 +18,9 @@
 <h4 align="left">Estudando atualmente:</h4>
 <a href="https://www.java.com/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/>
+</a>
+<a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="java" width="55" height="55"/>
 </a>
 </p>
 
