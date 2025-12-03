@@ -7,8 +7,10 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats-ruddy-iota.vercel.app/?user=FelipeBuso)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBuso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats-ruddy-iota.vercel.app/?user=FelipeBuso&theme=dark)](https://git.io/streak-stats)
+
 
 - :man_student: Cursando Ciências da Computação na Anhembi Morumbi
 - 🌱 Desenvolvedor web full stack na Bria Saúde
