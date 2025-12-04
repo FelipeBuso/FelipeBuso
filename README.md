@@ -7,9 +7,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBuso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-alpha-topaz-20.vercel.app/api/top-langs/?username=FelipeBuso&layout=compact&locale=pt-br&card_width=495&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats-ruddy-iota.vercel.app/?user=FelipeBuso&theme=dark&locale=pt-br)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ruddy-iota.vercel.app/?user=FelipeBuso&theme=dracula&locale=pt-br)](https://git.io/streak-stats)
 
 
 - :man_student: Cursando Ciências da Computação na Anhembi Morumbi
